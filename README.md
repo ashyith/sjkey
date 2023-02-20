@@ -2,11 +2,13 @@
 
 ### About me
 
+![](https://komarev.com/ghpvc/?username=jakubserwin&style=for-the-badge)
+
 - 🔭 I’m currently working as Jr. Frontend Developer @ [Digital Colliers](https://www.digitalcolliers.com/)
 - ✨ Check out my project @ [jakubserwin.com](https://www.jakubserwin.com/)
 - 📫 How to reach me: LinkedIn, Email
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakubserwin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakubserwin&layout=compact&exclude_repo=university-courses,Practice)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🚀 I’m currently learning
 ![Astro](https://img.shields.io/badge/astro-%23F24E11.svg?style=for-the-badge&logo=astro&logoColor=white)
