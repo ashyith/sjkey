@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=jakubserwin&style=for-the-badge)
 
-- 🔭 I’m currently working as Jr. Frontend Developer @ [Digital Colliers](https://www.digitalcolliers.com/)
+- 🔭 I’m currently working as Frontend Developer @ [Digital Colliers](https://www.digitalcolliers.com/)
 - ✨ Check out my project @ [jakubserwin.com](https://www.jakubserwin.com/)
 - 📫 How to reach me: LinkedIn, Email
 
