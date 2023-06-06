@@ -10,7 +10,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakubserwin&layout=compact&exclude_repo=university-courses,Practice)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🚀 I’m currently learning
+### 🧙‍♂️ Spells of Software Engineering <sub><sup>(I’m currently learning)</sup></sub>
 ![Astro](https://img.shields.io/badge/astro-%23F24E11.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
