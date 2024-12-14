@@ -1,11 +1,6 @@
 ## Hi! Nice to see you. 👋
 
-Hey, I am Jakub, a Front-End Developer with over 3 years of experience. My passion lies in creating User Interfaces and enhancing both my workflow and DX. 
-
-Currently I am focusing on working full-time in [zondacrypto](https://zondacrypto.com) and developing [Arcanify](https://www.arcanify.pl/)'s projects on weekends.
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://www.jakubserwin.com/)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakub-serwin/)
 ![](https://komarev.com/ghpvc/?username=jakubserwin&style=for-the-badge)
 
 
